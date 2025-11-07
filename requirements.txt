@@ -1,7 +1,0 @@
-discord.py==2.3.2
-google-generativeai==0.8.3
-python-dotenv==1.0.0
-aiohttp==3.9.1
-flask==3.0.0
-Pillow==10.1.0
-langdetect
